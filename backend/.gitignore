@@ -1,0 +1,35 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+venv/
+.venv/
+env/
+
+# django
+*.log
+db.sqlite3
+db.sqlite3-journal
+
+# environment files
+.env
+.env.*
+
+# static/media build artifacts if generated locally
+staticfiles/
+media/
+
+# test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+
+# editor / os
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
