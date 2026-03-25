@@ -33,3 +33,7 @@ htmlcov/
 Thumbs.db
 .vscode/
 .idea/
+# venv files 
+venv/
+.venv/
+env/
