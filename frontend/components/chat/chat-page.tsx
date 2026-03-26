@@ -20,8 +20,7 @@ function createMessage(role: "user" | "assistant", content: string): ChatMessage
 const mockReplies = [
     "Your request has been received. In the next phase, this response will come from your Django API.",
     "I can help with order tracking, delivery issues, refunds, and account support.",
-    "This is a mock AI reply for the UI phase. Backend integration comes next.",
-    "More text will be added here to test the scroll area and the UI.",
+    "This is a mock AI reply for the UI phase. Backend integration comes next."
 ];
 
 export function ChatPage() {
