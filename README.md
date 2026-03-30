@@ -36,6 +36,7 @@ This project is designed as a portfolio-ready SaaS-style feature to demonstrate:
 - Tailwind CSS
 - shadcn/ui
 - Axios
+- Redux
 
 ### Backend
 
