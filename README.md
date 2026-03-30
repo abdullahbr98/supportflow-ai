@@ -76,5 +76,22 @@ supportflow-ai/
 │
 └── README.md
 
-
 ```
+
+How the Application Works
+
+1. User opens the chat interface.
+
+2. User types a support query.
+
+3. Frontend sends request to Django API.
+
+4. Django validates the request.
+
+5. Django calls OpenAI via service layer.
+
+6. OpenAI returns response.
+
+7. Backend sends reply to frontend.
+
+8. Frontend renders the AI response.
