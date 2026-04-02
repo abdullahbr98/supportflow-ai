@@ -47,6 +47,7 @@ This project is designed as a portfolio-ready SaaS-style feature to demonstrate:
 - python-dotenv
 - OpenAI SDK
 - Vector DB
+- n8n
 
 ---
 
