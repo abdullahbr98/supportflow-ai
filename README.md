@@ -46,8 +46,8 @@ This project is designed as a portfolio-ready SaaS-style feature to demonstrate:
 - django-cors-headers
 - python-dotenv
 - OpenAI SDK
-- Vector DB
-- n8n
+- Vector DB connected
+- n8n api
 
 ---
 
