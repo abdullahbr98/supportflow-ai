@@ -21,7 +21,7 @@ This project is designed as a portfolio-ready SaaS-style feature to demonstrate:
 - OpenAI-powered support responses
 - Request validation using DRF serializers
 - Clean separation of frontend and backend
-- Reusable component structure
+- Reusable component structure file
 - Production-style service layer for AI logic
 
 ---
